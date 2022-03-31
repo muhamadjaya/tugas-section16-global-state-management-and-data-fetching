@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.groupAppend .btnAdd {
+  background-color: #5de31d;
+  color: white;
+}
+
+.groupAppend .btnAdd:hover {
+  background-color: #4cbb17;
+  color: white;
+  transition: 0.4s;
+}
